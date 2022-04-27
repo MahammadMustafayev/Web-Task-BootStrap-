@@ -1,0 +1,176 @@
+.bnt
+{
+    height: 39px;
+    border-radius: 12px;
+}
+.main-color
+{
+    color: #fff;
+}
+.nav-family
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.first
+{
+    
+    height: 90vh;
+    background-color: rgb(226, 226, 226);
+}
+.dsa
+{
+    width: 55%;
+    height: 90vh;
+    
+}
+.btn-img
+{
+   height: 3rem;
+}
+.h1-dsa
+{
+    font-size: 80px;
+}
+.asd
+{
+    width: 40%;
+    height: 90vh;
+    
+}
+.circle
+{
+    width: 450px;
+    height: 450px;
+    background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+}
+.circle3
+{
+    width: 600px;
+    height: 600px;
+    background-image: url(https://source.unsplash.com/u8Jn2rzYIps/900x900);
+}
+.two
+{
+   
+    background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+}
+.text-img
+{
+    height: 3rem;
+    display: flex;
+    margin-left: 400px;
+    
+}
+.third{
+    width: 100%;
+    height: 100vh;
+    
+}
+.phone
+{
+    width: 40%;
+    height: 90vh;
+    
+}
+.circle2
+{
+    width: 370px;
+    height: 370px;
+    background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+}
+.iconss
+{
+    width: 60%;
+    height: 90vh;
+    
+}
+.icons
+{
+    margin: 0 10%;
+   
+}
+.icon
+{
+    
+    height: 32vh;
+    
+}
+.icon-ml
+{
+    margin-left: 110px;
+}
+.ic
+{
+    
+    font-size: 65px;
+    color:  #9f1ae2 ;
+}
+.four
+{
+    height: 97vh;
+    
+}
+.klm
+{
+    height: 97vh;
+    
+}
+.h4-dsa
+{
+    font-size: 55px;
+}
+.mkl
+{
+    height: 97vh;
+}
+.five
+{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://source.unsplash.com/5g41N3uRPf8/1600x800);
+    background-repeat:no-repeat ;
+    opacity: 1;
+    color: #fff;
+}
+.five::before
+{
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+}
+.btn-down
+{
+    
+    border-radius: 30px;
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+    transition:  0.5s;
+}
+.btn-down:hover
+{
+    
+    background-color: white;
+    color: black;
+}
+.six
+{
+    height: 50vh;
+    background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+}
+.p-dsa
+{
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+}
+.end
+{
+    background-color: black;
+}
